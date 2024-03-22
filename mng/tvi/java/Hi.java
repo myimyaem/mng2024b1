@@ -1,7 +1,7 @@
 package mng.tvi.java;
 
 public class Hi {
-    public void greet(){
+    public static void greet(){
         System.out.println("Hi from mng.tvi.java");
     }
 }
