@@ -7,7 +7,6 @@
  */
 
 import java.util.Random;
-import java.util.Randomizer;
 
 
 import mng.tvi.java.*;
@@ -31,7 +30,7 @@ public class Main{
     { System.out.println("this is intance ini block 1");}
     public static void main(String[] args) {
         Random r = new Random();
-        Randomizer rr = new Randomizer();
+        // Randomizer rr = new Randomizer();
         int x = Integer.parseInt(args[0]);
         System.out.println(r.nextInt(x));
         System.out.println("Hello MNG TVI");
