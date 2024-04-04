@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuilderLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringBuilderLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "StringLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "LoopStatements",
+            "request": "launch",
+            "mainClass": "chapter2.LoopStatements",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatements",
+            "request": "launch",
+            "mainClass": "chapter2.ConditionalStatements",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsAndStatements1",
+            "request": "launch",
+            "mainClass": "chapter2.OperatorsAndStatements1",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "PrimitivesLesson",
             "request": "launch",
             "mainClass": "chapter1.part3.PrimitivesLesson",
