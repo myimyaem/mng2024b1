@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task6Guide",
+            "request": "launch",
+            "mainClass": "chapter4.Task6Guide",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "AccessModifierLesson",
+            "request": "launch",
+            "mainClass": "chapter4.AccessModifierLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "Sample2",
+            "request": "launch",
+            "mainClass": "chapter4.Sample2",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "chapter5.Sample",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "DateLesson",
+            "request": "launch",
+            "mainClass": "chapter3.DateLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "ArrayListLesson",
             "request": "launch",
             "mainClass": "chapter3.ArrayListLesson",
