@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CallInitializationOrderSimple",
+            "request": "launch",
+            "mainClass": "chapter4.CallInitializationOrderSimple",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "chapter4.Constructors",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloadLesson",
+            "request": "launch",
+            "mainClass": "chapter4.MethodOverloadLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "StaticLesson",
+            "request": "launch",
+            "mainClass": "chapter4.StaticLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "chapter4.VarArgs",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "Task6Guide",
             "request": "launch",
             "mainClass": "chapter4.Task6Guide",
