@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InheritanceLesson",
+            "request": "launch",
+            "mainClass": "chapter5.InheritanceLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "Mammal",
+            "request": "launch",
+            "mainClass": "chapter5.Mammal",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "LambdasLesson",
+            "request": "launch",
+            "mainClass": "chapter4.LambdasLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationLesson",
+            "request": "launch",
+            "mainClass": "chapter4.EncapsulationLesson",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "CallInitializationOrderSimple",
             "request": "launch",
             "mainClass": "chapter4.CallInitializationOrderSimple",
