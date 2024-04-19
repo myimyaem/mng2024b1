@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PetOwner",
+            "request": "launch",
+            "mainClass": "chapter5.PetOwner",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "LoveBird",
+            "request": "launch",
+            "mainClass": "chapter5.LoveBird",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "Lemur",
+            "request": "launch",
+            "mainClass": "chapter5.Lemur",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "Panda",
+            "request": "launch",
+            "mainClass": "chapter5.Panda",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "InheritanceLesson",
             "request": "launch",
             "mainClass": "chapter5.InheritanceLesson",
