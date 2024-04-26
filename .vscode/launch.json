@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckedExceptionsL",
+            "request": "launch",
+            "mainClass": "chapter6.CheckedExceptionsL",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "RuntimeExceptionsL",
+            "request": "launch",
+            "mainClass": "chapter6.RuntimeExceptionsL",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "MoreTryCatchL",
+            "request": "launch",
+            "mainClass": "chapter6.MoreTryCatchL",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionsL",
+            "request": "launch",
+            "mainClass": "chapter6.ExceptionsL",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "PetOwner",
             "request": "launch",
             "mainClass": "chapter5.PetOwner",
