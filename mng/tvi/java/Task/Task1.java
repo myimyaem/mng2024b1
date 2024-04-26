@@ -6,5 +6,3 @@ class Task1 {
         System.out.println("Kamusta Mundo!"); // Display the string.
     }
 }
-
-mng/tvi/java/Task/Task1.java
