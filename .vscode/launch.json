@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task11",
+            "request": "launch",
+            "mainClass": "mng.tvi.java.Task.Task11",
+            "projectName": "mng2024b1_9439bd3"
+        },
+        {
+            "type": "java",
             "name": "Task10",
             "request": "launch",
             "mainClass": "mng.tvi.java.Task.Task10",
